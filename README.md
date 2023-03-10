@@ -1,2 +1,2 @@
 # Automate-with-Python
-Several projects on using python for automation
+Build automation projects using python libraries
